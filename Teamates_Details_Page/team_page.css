@@ -150,7 +150,24 @@ nav a:hover{
       font-size:18px;
       text-align:center;
   }*/
-
+  .pace{
+    width: 100%;
+    margin-top: 200px;
+    margin-bottom: 200px;
+   height: 500px;
+   background-color: white;
+  position: fixed;
+  }
+  .pace p{
+    text-align: center;
+  }
+.hero{
+  width: 100%;
+    margin-top: 250px;
+    margin-bottom: 20px;
+   height: 20px;
+  position: fixed;
+}
   .card a{
       text-decoration: none;
       font-size:18px;
@@ -161,3 +178,17 @@ nav a:hover{
   i:hover{
   	color: #ff004d;
   }
+  footer{
+  width: 100%;
+  background-color: grey;
+  height: 50px;
+   align-items: center;
+  margin-bottom: 0px; 
+  position: fixed;
+  
+}
+footer p {
+    color: black;
+    text-align:center;
+    padding-top: 10px;
+    
